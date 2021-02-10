@@ -1,5 +1,5 @@
 fun main() {
-
+    print(getFullName("Caio", "martins"))
 }
 
 private fun getFullName(name: String, lastName: String):String {
